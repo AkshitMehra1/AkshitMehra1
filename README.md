@@ -1,5 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/AkshitMehra1) <br>
-
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='50' align="left"/><h2>Hey! I'm Akshit (AkkiTheGreat)</h2>
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -7,7 +5,7 @@
 🎓 &nbsp;I'm currently studying Computer Science Engineering at Maharaja Agrasen Institute of Technology, Delhi.\
 🌱 &nbsp;I'm interested in Software Development, Machine Learning and Data Science.\
 ✍️ &nbsp;In my free time, I like to automate stuff and solve challenging problems.\
-📄 &nbsp;You can have a look at my [Résumé](https://drive.google.com/file/d/12Q0dWgij8myR-wBROjBZZPwQQos026QT/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;You can have a look at my [Résumé](https://drive.google.com/drive/folders/14hOFekzw42i3uwwV6PJGduxfdKXu9naV?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
@@ -53,6 +51,5 @@
 
 <p align>
 <a href="https://www.linkedin.com/in/akshit-mehra-1800b418b/"><img src="https://img.shields.io/badge/-Akshit%20Mehra-05122A?style=flat&logo=linkedin"/></a>
-<a href="mailto:akshitmehra@gmail.com"><img src="https://img.shields.io/badge/-Akshit%20Mehra-05122A?style=flat&logo=gmail"/></a>
 </p>
 
