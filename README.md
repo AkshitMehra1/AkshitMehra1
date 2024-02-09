@@ -1,11 +1,12 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='50' align="left"/><h2>Hey! I'm Akshit (AkkiTheGreat)</h2>
 ### 👨🏻‍💻 &nbsp;About Me
 
+💻 &nbsp;I am current;y working as a Business Technology Solutions Associate at ZS.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I have studied Computer Science Engineering at Maharaja Agrasen Institute of Technology, Delhi.\
 🌱 &nbsp;I'm interested in Software Development, Machine Learning and Data Science.\
 ✍️ &nbsp;In my free time, I like to automate stuff and solve challenging problems.\
-📄 &nbsp;You can have a look at my [Résumé](https://drive.google.com/drive/folders/14hOFekzw42i3uwwV6PJGduxfdKXu9naV?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;You can have a look at my [Résumé](https://www.dropbox.com/scl/fi/raj4cx5v9cb0qmlsdi9cq/Resume_AkshitMehra.pdf?rlkey=lf4u14bmuhgdtgp0f8y4eb6ym&dl=0) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
