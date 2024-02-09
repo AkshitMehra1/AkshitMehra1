@@ -1,7 +1,7 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='50' align="left"/><h2>Hey! I'm Akshit (AkkiTheGreat)</h2>
 ### 👨🏻‍💻 &nbsp;About Me
 
-💻 &nbsp;I am current;y working as a Business Technology Solutions Associate at ZS.\
+💻 &nbsp;I am currently working as a Business Technology Solutions Associate at ZS.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I have studied Computer Science Engineering at Maharaja Agrasen Institute of Technology, Delhi.\
 🌱 &nbsp;I'm interested in Software Development, Machine Learning and Data Science.\
